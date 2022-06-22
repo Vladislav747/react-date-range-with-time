@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/hypeserver/react-date-rangebuild/main.3a31a7f3.js",
+    "runtime-main.js": "/hypeserver/react-date-rangebuild/bundle.e4600816.js",
+    "build/2.b12293bc.js": "/hypeserver/react-date-rangebuild/2.b12293bc.js",
+    "build/2.b12293bc.js.LICENSE.txt": "/hypeserver/react-date-rangebuild/2.b12293bc.js.LICENSE.txt",
+    "index.html": "/hypeserver/react-date-rangeindex.html",
+    "precache-manifest.5336a53124cda58aa0d39e915f8df304.js": "/hypeserver/react-date-rangeprecache-manifest.5336a53124cda58aa0d39e915f8df304.js",
+    "service-worker.js": "/hypeserver/react-date-rangeservice-worker.js"
+  },
+  "entrypoints": [
+    "build/bundle.e4600816.js",
+    "build/2.b12293bc.js",
+    "build/main.3a31a7f3.js"
+  ]
+}
