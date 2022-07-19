@@ -201,14 +201,14 @@
   z-index: 1;
 }
 
-.rdrTimePicker__label{
+.rdrTimePicker__label {
     text-align: left;
     font-weight: 600;
     color: #849095;
     padding: 0.833em;
   }
 
-.rdrTimePicker__divider{
+.rdrTimePicker__divider {
     font-weight: 600;
     color: #849095;
     padding: 0 0.2em;
@@ -228,7 +228,11 @@
       background-color: #e8eaeb;
     }
 
-.custom-time__input-hours, .custom-time__input-minutes {
-  font-weight: 600;
-  font-size: 14px !important;
+.custom-time__input-hours,
+.custom-time__input-minutes {
+  color: #1d2429;
+  border-radius: 4px;
+  border: 1px solid;
+  font-size: 12px !important;
+  font-family: 'Roboto', 'Arial', sans-serif;
 }
