@@ -177,7 +177,7 @@
     width: 18px;
     height: 2px;
     border-radius: 2px;
-    background: #3d91ff;
+    background: #494ddb;
   }
 
 .rdrDayToday:not(.rdrDayPassive) .rdrInRange ~ .rdrDayNumber span:after,.rdrDayToday:not(.rdrDayPassive) .rdrStartEdge ~ .rdrDayNumber span:after,.rdrDayToday:not(.rdrDayPassive) .rdrEndEdge ~ .rdrDayNumber span:after,.rdrDayToday:not(.rdrDayPassive) .rdrSelected ~ .rdrDayNumber span:after{
@@ -383,12 +383,4 @@
   font-weight: 600;
   color: #849095;
   padding: 0.833em;
-}
-
-.rdrStartEdge,
-.rdrEndEdge,
-.rdrInRange,
-.rdrDateDisplay,
-.rdrStaticRangeSelected {
-  color: #494ddb;
 }

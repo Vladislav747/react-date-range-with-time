@@ -756,14 +756,14 @@ Calendar.defaultProps = {
   showPreview: true,
   displayMode: 'date',
   months: 1,
-  color: '#3d91ff',
+  color: '#494ddb',
   scroll: {
     enabled: false
   },
   direction: 'vertical',
   maxDate: (0, _addYears.default)(new Date(), 20),
   minDate: (0, _addYears.default)(new Date(), -100),
-  rangeColors: ['#3d91ff', '#3ecf8e', '#fed14c'],
+  rangeColors: ['#494ddb', '#3ecf8e', '#fed14c'],
   startDatePlaceholder: 'Early',
   endDatePlaceholder: 'Continuous',
   editableDateInputs: false,
