@@ -94,7 +94,7 @@
   ],
   "license": "MIT",
   "main": "dist/index.js",
-  "name": "@vladislav7474/react-date-range-with-time",
+  "name": "react-date-range-with-time",
   "peerDependencies": {
     "date-fns": "^2.20.0",
     "react": "^0.14 || ^15.0.0-rc || >=15.0"
@@ -112,5 +112,5 @@
     "start": "yarn build:css & styleguidist server",
     "test": "jest"
   },
-  "version": "1.4.1"
+  "version": "1.4.2"
 }
